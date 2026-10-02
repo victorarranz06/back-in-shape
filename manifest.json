@@ -12,19 +12,19 @@
   "categories": ["health", "fitness"],
   "icons": [
     {
-      "src": "/back-in-shape/icon-180.png",
-      "sizes": "180x180",
+      "src": "/back-in-shape/icon.svg",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/back-in-shape/icon-192.png",
-      "sizes": "192x192",
+      "src": "/back-in-shape/icon.svg",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/back-in-shape/icon-512.png",
+      "src": "/back-in-shape/icon.svg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
