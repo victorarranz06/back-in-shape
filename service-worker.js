@@ -4,9 +4,7 @@ const FILES_TO_CACHE = [
   "/back-in-shape/",
   "/back-in-shape/index.html",
   "/back-in-shape/manifest.json",
-  "/back-in-shape/icon-180.png",
-  "/back-in-shape/icon-192.png",
-  "/back-in-shape/icon-512.png"
+  "/back-in-shape/icon.svg"
 ];
 
 self.addEventListener("install", event => {
