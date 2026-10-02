@@ -517,5 +517,10 @@ function start(id, lv){
 }
 apply(); render();
 </script>
+   <script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("/back-in-shape/service-worker.js");
+}
+</script>
 </body>
 </html>
